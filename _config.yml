@@ -82,10 +82,11 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "PhD student at Rochester Institute of Technology. My research lies in deep representation learning for disentangling generative factors."
+  bio              : "PhD student at Rochester Institute of Technology. \\ 
+                      My research lies in deep representation learning for disentangling generative factors."
   location         : "Rochester, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=T0yPXRwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
