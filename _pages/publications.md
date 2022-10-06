@@ -20,13 +20,16 @@ C Tejada, O Fujimoto, Z Li, D Ashbrook. Blowhole: Blowing-Activated Tags for Int
 Z Huang, Z Xu, Z Li, Z Zhao, D Tao, 'Depth and Skeleton Information Model for Kinect Based Hand Segmentation', International Conference on Advanced ICT and Education (2013)\
 Z Xu, Z Huang, Z Zhao, Z Li, P Huang, 'Sparse Representation for Kinect Based Hand Gesture Recognition System', International Conference on Advanced ICT and Education (2013)\
 
-
-<!-- {% if author.googlescholar %} -->
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-<!-- {% endif %} -->
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
+<!-- {% if author.googlescholar %} -->
+  <!-- You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> -->
+<!-- {% endif %} -->
+
+<!-- {% include base_path %} -->
+
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
