@@ -17,7 +17,7 @@ This is Zhiyuan Li's homepage on the web!
 My research lies in deep representation learning for disentangling generative factors.
 
 New publications
-======
+------
 * M Toloubidokhti, N Kumar, Z Li, PK Gyawali, B Zenger, WW Good, RS MacLeod, and L Wang. Interpretable Modeling and Reduction of Unknown Errors in Mechanistic Operators, International Conference on Medical Image Computing and Computer-Assisted Intervention, (2022)
 * X Jiang, Z Li, R Missel, MS Zaman, B Zenger, WW Good, RS MacLeod, JL Sapp, L Wang, Few-Shot Generation of Personalized Neural Surrogates for Cardiac Simulation via Bayesian Meta-learning, International Conference on Medical Image Computing and Computer-Assisted Intervention, (2022)
 
