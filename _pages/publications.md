@@ -18,7 +18,7 @@ PK Gyawali, Z Li, C Knight, S Ghimire, BM Horacek, J Sapp, L Wang, Improving Dis
 AK Yung, Z Li, D Ashbrook, Printy3D: in-situ tangible three-dimensional design for augmented fabrication, ACM Conference on Interaction Design and Children, (2018)\
 C Tejada, O Fujimoto, Z Li, D Ashbrook. Blowhole: Blowing-Activated Tags for Interactive 3D-Printed Models, Graphics Interface Conference, (2018)\
 Z Huang, Z Xu, Z Li, Z Zhao, D Tao, 'Depth and Skeleton Information Model for Kinect Based Hand Segmentation', International Conference on Advanced ICT and Education (2013)\
-Z Xu, Z Huang, Z Zhao, Z Li, P Huang, 'Sparse Representation for Kinect Based Hand Gesture Recognition System', International Conference on Advanced ICT and Education (2013)\
+Z Xu, Z Huang, Z Zhao, Z Li, P Huang, 'Sparse Representation for Kinect Based Hand Gesture Recognition System', International Conference on Advanced ICT and Education (2013)
 
 {% include base_path %}
 
